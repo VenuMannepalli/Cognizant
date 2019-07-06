@@ -79,7 +79,7 @@ public class Processor {
 		}
 		System.out.println(" ");
 		System.out.println("processing the XML file");
-		//Processor.validateAndGenerateRecord(XMLRecords);
+		Processor.validateAndGenerateRecord(XMLRecords);
 
 	}
 
